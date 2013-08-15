@@ -1,0 +1,20 @@
+{
+  "name": "snake-aas/bardump-shortcut",
+  "description": "Nette framework shortcut for Nette\\Diagnostics\\Debugger::barDump function",
+  "homepage": "https://github.com/snake-aas/bardump-shortcut",
+  "type": "library",
+  "license": ["MIT"],
+  "authors": [
+    {
+      "name": "Martin Snake.AAS Grossmann",
+      "homepage": "http://vyvoj.net"
+    }
+  ],
+  "require": {
+    "php": ">= 5.3.13",
+    "nette/nette": ">= 2.0.10"
+  },
+  "autoload": {
+    "psr-0": { "snake-aas\\bardump-shortcut": "" }
+  }
+}
