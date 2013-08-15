@@ -15,6 +15,6 @@
     "nette/nette": ">= 2.0.10"
   },
   "autoload": {
-    "psr-0": { "snake-aas\\bardump-shortcut": "" }
+    "files": ["snake-aas/bardump-shortcut/bardump-shortcut.php"]
   }
 }
