@@ -13,10 +13,7 @@ BarDump shortcut requires PHP 5.3.13 or later and Nette Framework 2.0.10 or late
 Installation
 ------------
 
-The best way to install is using [Composer](http://getcomposer.org/)
-
-Into your composer.json file just add:
-
+The best way to install is using [Composer](http://getcomposer.org/):
 
 ```
 composer require snake-aas/bardump-shortcut
